@@ -12,12 +12,6 @@ The goal of this project is to transform raw sales data into meaningful insights
 - Python (Pandas, Matplotlib)
 - Tableau *(Optional)*
 
-## 📂 Project Files
-- `Business_Sales_Performance_Analytics.xlsx` – Dataset
-- `Dashboard.pbix` – Power BI Dashboard (if applicable)
-- `Analysis.ipynb` – Python Analysis (if applicable)
-- `README.md`
-
 ## 📈 Key Analysis
 - Revenue Trend Analysis
 - Top-Selling Products
